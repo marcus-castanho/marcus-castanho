@@ -5,6 +5,6 @@ I am a back end software developer and an enthusiast of techology as a mean to c
 I'm also a contributer to the tech community, sharing knowledge whenever I can!
 
 Find me elsewhere🌐:<br/>
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--CAE4F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-castanho/)
-[![Medium Badge](https://img.shields.io/badge/medium--CAE4F1?style=for-the-badge&logo=medium)](https://medium.com/@marcus-castanho)
-[![Stackoverflow Badge](https://img.shields.io/badge/stackoverflow--CAE4F1?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/14689203/marcus-castanho)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--CAE4F1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-castanho/)
+[![Medium Badge](https://img.shields.io/badge/medium--CAE4F1?style=flat&logo=medium)](https://medium.com/@marcus-castanho)
+[![Stackoverflow Badge](https://img.shields.io/badge/stackoverflow--CAE4F1?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/14689203/marcus-castanho)
