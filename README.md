@@ -1,6 +1,6 @@
 ### Hi, I'm Marcus 👋
 
-I am a back end software developer and an enthusiast of techology as a mean to change the world! My experience comprehends web apps built with NodeJS and Typescript.
+I am a back end software developer and an enthusiast of technology as a mean to change the world! My experience comprehends web apps built with NodeJS and Typescript.
 
 I'm also a contributer to the tech community, sharing knowledge whenever I can!
 
