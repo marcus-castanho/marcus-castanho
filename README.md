@@ -2,7 +2,7 @@
 
 I am a software developer and an enthusiast of technology as a mean to change the world! My experience comprehends mainly - but it's not restricted to - web apps built with NodeJS and Typescript.
 
-I'm also a contributer to the tech community, sharing knowledge whenever I can!
+I'm also a contributer to the tech community, sharing knowledge howhever I can!
 
 Find me elsewhere🌐:<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-castanho/)
