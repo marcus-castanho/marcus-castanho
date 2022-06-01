@@ -1,13 +1,14 @@
 ### Hi, I'm Marcus 👋
 
-I am a software developer and an enthusiast of technology as a mean to change the world! My experience comprehends back end web apps built with NodeJS and Typescript in a modular achitecture and frameworks such as NestJS. My currently focus in on the following study topics: 
+I am a software developer and an enthusiast of technology as a mean to change the world! My experience comprehends back end web apps built with NodeJS and Typescript in a modular achitecture and frameworks such as NestJS. I'm also a contributer to the tech community, sharing knowledge howhever I can!
 
-- Front End development with NextJs and ReactJs;
+### Learning and CSI/CSD (continuous self improvement/development)
+My currently focus is on the following study topics: 
+
+- Front end development with NextJs and ReactJs;
 - TDD;
 - CI/CD workflows;
 - Docker for the containerization of my applications;
-
-I'm also a contributer to the tech community, sharing knowledge howhever I can!
 
 Find me elsewhere🌐:<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-castanho/)
