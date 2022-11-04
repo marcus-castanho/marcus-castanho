@@ -1,4 +1,4 @@
-### Hi, I'm Marcus ✋
+### Hi, I'm Marcus 🖐
 
 I am a software developer and an enthusiast of technology as a mean to change the world! My experience comprehends back end web apps built with Node.js and TypeScript in a modular achitecture and frameworks such as NestJS. I'm also a contributer to the tech community, sharing knowledge whenever I can!
 
