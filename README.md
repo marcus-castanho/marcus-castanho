@@ -7,7 +7,7 @@ My currently focus is on the following study topics:
 - Front end development with Next.js and React;
 - TDD;
 - CI/CD workflows;
-- Docker for the containerization of my applications;
+- Docker;
 
 Find me elsewhere🌐:<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-castanho/)
