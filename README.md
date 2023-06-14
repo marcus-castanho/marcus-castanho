@@ -5,7 +5,7 @@ I am a software developer and an enthusiast of technology as a mean to change th
 My currently focus is on the following study topics: 
 
 - Front end development with Next.js and React;
-- TDD;
+- Unit and integration testing;
 - CI/CD workflows;
 - Docker;
 
