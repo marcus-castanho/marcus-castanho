@@ -6,7 +6,7 @@ My currently focus is on the following study topics:
 
 - Front end documentation and testing;
 - UI styling in a design system;
-- Unit and integration testing;
+- Unit and e2e testing;
 - CI/CD workflows;
 
 Find me elsewhere🌐:<br/>
